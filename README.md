@@ -205,11 +205,16 @@ Accessibility is weighted by population rather than simply averaging geographic 
 
 The population-weighted mean is:
 
-\[
-\bar d_w =
-\frac{\sum_i Population_i d_i}
-{\sum_i Population_i}
-\]
+$$
+\bar{d}_w =
+\frac{\sum_i P_i d_i}
+{\sum_i P_i}
+$$
+
+where:
+
+- $P_i$ is the population represented by grid cell $i$.
+- $d_i$ is the distance from grid cell $i$ to the nearest cash-access facility.
 
 The project also calculates true population-weighted medians.
 
