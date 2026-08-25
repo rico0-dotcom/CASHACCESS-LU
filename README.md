@@ -380,7 +380,7 @@ For a given population cell:
 d_{i,\mathrm{after}}
 -
 d_{i,\mathrm{before}}
-
+```
 where:
 
 - $d_{i,\text{before}}$ is the distance to the nearest ATM before the closure.
