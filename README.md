@@ -608,7 +608,7 @@ The current analysis should be interpreted with the following limitations.
 5. The spatial econometric analysis is exploratory and cross-sectional rather than causal.
 6. A historical geospatial infrastructure panel would be required to rigorously estimate the effects of infrastructure closures over time.
 7. Richer socioeconomic variables are needed to identify which groups are most socially or economically vulnerable to poor cash access.
-8. Population-grid accessibility uses representative points for 1-km cells rather than individual household locations.
+8. Population-grid accessibility uses representative points for 1-km cells instead of individual household locations.
 
 ---
 
@@ -616,16 +616,16 @@ The current analysis should be interpreted with the following limitations.
 
 Potential extensions include:
 
-- Add STATEC income, age, employment, and socioeconomic indicators.
-- Construct historical ATM and branch snapshots.
-- Develop spatial-panel models.
-- Study walking and public-transport accessibility.
-- Add payment-behaviour and cash-use indicators.
-- Estimate heterogeneous effects across demographic groups.
-- Develop facility-location and maximal-coverage optimisation models.
-- Integrate resilience scenarios with policy optimisation.
-- Build an interactive Streamlit decision-support system for financial-infrastructure analysis.
-- Extend the framework to other European financial centres.
+- Adding STATEC income, age, employment, and socioeconomic indicators.
+- Constructing historical ATM and branch snapshots.
+- Developing spatial-panel models.
+- Studying: walking and public-transport accessibility.
+- Adding payment-behaviour and cash-use indicators.
+- Estimating heterogeneous effects across demographic groups.
+- Developing facility-location and maximal-coverage optimisation models.
+- Integrating resilience scenarios with policy optimisation.
+- Building an interactive Streamlit decision-support system for financial-infrastructure analysis.
+- Extending the framework to other European financial centres.
 
 ---
 
@@ -650,13 +650,11 @@ Research interests include:
 
 # Academic positioning
 
-CASHACCESS-LU is designed as a research prototype rather than a production central-bank system.
+CASHACCESS-LU is designed as a research prototype.
 
 The project demonstrates how heterogeneous infrastructure and financial datasets can be transformed into reproducible evidence for questions involving:
 
-**financial services + technology + geography + population + organisational decision-making**
-
-This positioning makes the project particularly relevant to research at the intersection of **Information Systems, financial technology, financial infrastructure, geospatial economics, and empirical econometrics**.
+**financial services + technology + geography + population + organisational decision-making**.
 
 ---
 
