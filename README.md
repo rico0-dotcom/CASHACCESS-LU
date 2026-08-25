@@ -375,12 +375,11 @@ For each ATM, it asks:
 
 For a given population cell:
 
-$$
+```math
 \Delta d_i =
-d_{i,\text{after}}
+d_{i,\mathrm{after}}
 -
-d_{i,\text{before}}
-$$
+d_{i,\mathrm{before}}
 
 where:
 
