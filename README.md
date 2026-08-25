@@ -374,14 +374,14 @@ For each ATM, it asks:
 > **What happens to population accessibility if this ATM disappears?**
 
 For a given population cell:
-
+$$
 \[
 \Delta d_i =
 d_{i,\text{after}}
 -
 d_{i,\text{before}}
 \]
-
+$$
 The model uses the nearest and second-nearest ATM:
 
 ```text
