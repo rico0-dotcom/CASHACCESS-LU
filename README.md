@@ -287,7 +287,7 @@ Identifies local spatial patterns such as:
 - Low-High;
 - Not significant.
 
-These results are used as **exploratory spatial evidence**, not causal estimates.
+These results are used as **exploratory spatial evidence**.
 
 ---
 
