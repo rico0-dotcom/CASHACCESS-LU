@@ -1,0 +1,9 @@
+access_type,threshold_km,population_above_threshold,share_pct
+All physical cash access,1,221923,34.49115663174909
+All physical cash access,2,135909,21.12290572254515
+All physical cash access,5,21855,3.3966926735258465
+All physical cash access,10,239,0.03714525504336203
+ATM only,1,301250,46.82011749712474
+ATM only,2,200249,31.12259488359081
+ATM only,5,47812,7.430916042398433
+ATM only,10,1550,0.24090018961176216

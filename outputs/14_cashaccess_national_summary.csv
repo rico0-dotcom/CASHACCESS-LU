@@ -1,0 +1,10 @@
+indicator,value
+2021 population represented,643420.0
+official population cells,2795.0
+physical cash-access points,332.0
+ATM points,139.0
+weighted mean distance to physical cash access (km),1.303202725055853
+weighted mean distance to ATM (km),1.7421534484407806
+weighted mean drive-network distance to cash access (km),1.9210224005774958
+weighted mean drive-network distance to ATM (km),2.5460658028397907
+ECB latest ATM count,299.0
