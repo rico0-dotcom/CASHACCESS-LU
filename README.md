@@ -376,15 +376,17 @@ For each ATM, it asks:
 For a given population cell:
 
 $$
-\[
 \Delta d_i =
 d_{i,\text{after}}
 -
 d_{i,\text{before}}
-\]
 $$
 
-The model uses the nearest and second-nearest ATM:
+where:
+
+- $d_{i,\text{before}}$ is the distance to the nearest ATM before the closure.
+- $d_{i,\text{after}}$ is the distance to the nearest remaining ATM after the closure.
+- $\Delta d_i$ is the resulting increase in accessibility distance.
 
 ```text
 Current nearest ATM = A
