@@ -1,0 +1,7 @@
+dataset,file,rows,role
+Luxembourg communes,luxembourg_communes.gpkg,100,Administrative geography
+Official 1-km reference grid,luxembourg_1km_reference_grid.gpkg,2937,Reference spatial grid
+2021 population by 1-km grid,population_grid_1km_2021.gpkg,2795,Population exposure
+Physical cash access,cash_points_current.gpkg,332,ATM / bank / post-office infrastructure
+Luxembourg drive network,luxembourg_drive_network.graphml,23529,Network accessibility
+ECB ATM time series,bcl_ecb_atm_counts.csv,26,National ATM trend

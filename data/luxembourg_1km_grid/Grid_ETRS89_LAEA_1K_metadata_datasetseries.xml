@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?><MD_Metadata xmlns="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://schemas.opengis.net/iso/19139/20060504/gmd/gmd.xsd">
+	<fileIdentifier><CharacterString xmlns="http://www.isotc211.org/2005/gco">4B8EAAEC-20AB-4110-A40C-079BC07A84A9</CharacterString></fileIdentifier>
+	<language>
+		<gmd:LanguageCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#LanguageCode" codeListValue="eng">eng</gmd:LanguageCode>
+	</language>
+	<hierarchyLevel>
+		<MD_ScopeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#MD_ScopeCode" codeListValue="series">series</MD_ScopeCode>
+	</hierarchyLevel>
+	<contact>
+		<CI_ResponsibleParty>
+			<organisationName>
+				<gco:CharacterString>European Commission; Eurostat</gco:CharacterString>
+			</organisationName>
+			<contactInfo>
+				<CI_Contact>
+					<address>
+						<CI_Address>
+							<electronicMailAddress>
+								<gco:CharacterString>ESTAT-GISCO@ec.europa.eu</gco:CharacterString>
+							</electronicMailAddress>
+						</CI_Address>
+					</address>
+				</CI_Contact>
+			</contactInfo>
+			<role>
+				<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact"/>
+			</role>
+		</CI_ResponsibleParty>
+	</contact>
+	<dateStamp>
+		<gco:Date>2011-10-05</gco:Date>
+	</dateStamp>
+	<metadataStandardName>
+		<gco:CharacterString>INSPIRE Metadata Commission Regulation (EC) No 1205/2008</gco:CharacterString>
+	</metadataStandardName>
+	<metadataStandardVersion>
+		<gco:CharacterString>03.12.2008</gco:CharacterString>
+	</metadataStandardVersion>
+    <locale>
+      <gmd:PT_Locale id="eng">
+        <gmd:languageCode>
+          <gmd:LanguageCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#LanguageCode" codeListValue="eng">English</gmd:LanguageCode>
+        </gmd:languageCode>
+        <gmd:characterEncoding>
+          <gmd:MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8">UTF-8</gmd:MD_CharacterSetCode>
+        </gmd:characterEncoding>
+      </gmd:PT_Locale>
+    </locale>
+	<identificationInfo>
+		<MD_DataIdentification>
+			<citation>
+				<CI_Citation>
+					<title>
+						<gco:CharacterString>European geostatistical 1km grid</gco:CharacterString>
+					</title>
+					<date>
+						<CI_Date>
+							<date>
+								<gco:Date>2011-10-05</gco:Date>
+							</date>
+							<dateType>
+								<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication"/>
+							</dateType>
+						</CI_Date>
+					</date>
+					<date>
+						<CI_Date>
+							<date>
+								<gco:Date>2011-10-05</gco:Date>
+							</date>
+							<dateType>
+								<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation"/>
+							</dateType>
+						</CI_Date>
+					</date>
+					<date>
+						<CI_Date>
+							<date>
+								<gco:Date>2011-10-05</gco:Date>
+							</date>
+							<dateType>
+								<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision"/>
+							</dateType>
+						</CI_Date>
+					</date>
+          <identifier>
+          <MD_Identifier>
+            <code>
+            <gco:CharacterString>Grid_ETRS89_LAEA_1K</gco:CharacterString>
+            </code>
+          </MD_Identifier>
+          </identifier>
+				</CI_Citation>
+			</citation>
+			<abstract>
+				<gco:CharacterString>This dataset series contains geographical grids of 1km grid cell size for most European countries.&#13;
+The grid cell width is 1km.&#13;
+The main attributes are a Grid ID coding the East and North coordinate of the lower left corner of each grid cell plus the hierarchy level plus the quad-tree level. And the INSPIREID of the lower grid cell corner.&#13;
+The grid has been created following the requirements of COMMISSION REGULATION (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services and the INSPIRE Specification on Geographical Grid&#13;
+Systems - Guidelines.&#13;
+The grid can be used to represent all kinds of statistical and scientific values. The main application is the representation of demographic data (population).</gco:CharacterString>
+			</abstract>
+			<pointOfContact>
+				<CI_ResponsibleParty>
+					<organisationName>
+						<gco:CharacterString>European Commission; Eurostat</gco:CharacterString>
+					</organisationName>
+					<contactInfo>
+						<CI_Contact>
+                            <address>
+								<CI_Address>
+									<electronicMailAddress>
+										<gco:CharacterString>ESTAT-GISCO@ec.europa.eu</gco:CharacterString>
+									</electronicMailAddress>
+								</CI_Address>
+							</address>
+						</CI_Contact>
+					</contactInfo>
+					<role>
+						<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</CI_RoleCode>
+					</role>
+				</CI_ResponsibleParty>
+			</pointOfContact>
+			
+            <descriptiveKeywords>
+              <MD_Keywords>
+                <keyword>
+                  <gco:CharacterString>Geographical grid systems</gco:CharacterString>
+                </keyword>
+<keyword>
+                  <gco:CharacterString>Population distribution — demography</gco:CharacterString>
+                </keyword>
+<keyword>
+                  <gco:CharacterString>Statistical units</gco:CharacterString>
+                </keyword>
+                <thesaurusName>
+                  <CI_Citation>
+                    <title>
+                      <gco:CharacterString>GEMET - INSPIRE themes, version 1.0</gco:CharacterString>
+                    </title>
+                    <date>
+                      <CI_Date>
+                        <date>
+                          <gco:Date>2008-06-01</gco:Date>
+                        </date>
+                        <dateType>
+                          <CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</CI_DateTypeCode>
+                        </dateType>
+                      </CI_Date>
+                    </date>
+                  </CI_Citation>
+                </thesaurusName>
+              </MD_Keywords>
+            </descriptiveKeywords>				
+			
+			
+			<resourceConstraints>
+				<MD_Constraints>
+					<useLimitation>
+						<gco:CharacterString>No conditions apply</gco:CharacterString>
+					</useLimitation>
+				</MD_Constraints>
+			</resourceConstraints>
+			<resourceConstraints>
+				<MD_LegalConstraints>
+					<accessConstraints>
+						<MD_RestrictionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions">otherRestrictions</MD_RestrictionCode>
+					</accessConstraints>
+					<otherConstraints>
+						<gco:CharacterString>no limitation</gco:CharacterString>
+					</otherConstraints>
+				</MD_LegalConstraints>
+			</resourceConstraints>
+			
+			
+            <spatialResolution>
+              <MD_Resolution>
+                <distance>
+                  <gco:Distance uom="km">1</gco:Distance>
+                </distance>
+              </MD_Resolution>
+            </spatialResolution>
+            
+			<language>
+				<gco:CharacterString>eng</gco:CharacterString>
+			</language>
+			<topicCategory>
+				<MD_TopicCategoryCode>boundaries</MD_TopicCategoryCode>
+			</topicCategory>
+<topicCategory>
+				<MD_TopicCategoryCode>society</MD_TopicCategoryCode>
+			</topicCategory>
+			<extent>
+				<EX_Extent>
+					<geographicElement>
+						<EX_GeographicBoundingBox>
+							<westBoundLongitude>
+								<gco:Decimal>-31.2109</gco:Decimal>
+							</westBoundLongitude>
+							<eastBoundLongitude>
+								<gco:Decimal>35.1761</gco:Decimal>
+							</eastBoundLongitude>
+							<southBoundLatitude>
+								<gco:Decimal>26.8473</gco:Decimal>
+							</southBoundLatitude>
+							<northBoundLatitude>
+								<gco:Decimal>71.8191</gco:Decimal>
+							</northBoundLatitude>
+						</EX_GeographicBoundingBox>
+					</geographicElement>
+					
+				</EX_Extent>
+			</extent>
+		</MD_DataIdentification>
+		</identificationInfo>
+			
+
+	<distributionInfo>
+		<MD_Distribution>
+            
+            <transferOptions>
+              <MD_DigitalTransferOptions>
+                <onLine>
+                  <CI_OnlineResource>
+                    <linkage>
+                      <URL>http://inspire.jrc.ec.europa.eu/documents/Data_Specifications/INSPIRE_Specification_GGS_v3.0.1.pdf</URL>
+                    </linkage>
+                    <function>
+                      <CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="information"/>
+                    </function>
+                  </CI_OnlineResource>
+                </onLine>
+              </MD_DigitalTransferOptions>
+            </transferOptions>
+			<transferOptions>
+				<MD_DigitalTransferOptions>
+					<onLine>
+						<CI_OnlineResource>
+							<linkage>
+								<URL>http://www.efgs.info/data</URL>
+							</linkage>
+							<function>
+								<CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download"/>
+							</function>
+						</CI_OnlineResource>
+					</onLine>
+				</MD_DigitalTransferOptions>
+			</transferOptions>
+            
+            
+		</MD_Distribution>
+	</distributionInfo>
+	
+	<dataQualityInfo>
+		<DQ_DataQuality>
+			<scope>
+				<DQ_Scope>
+					<level>
+						<MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue=""/>
+					</level>
+				</DQ_Scope>
+			</scope>
+			
+			<report>
+				<DQ_DomainConsistency xsi:type="DQ_DomainConsistency_Type">
+					<measureIdentification>
+						<RS_Identifier>
+							<code>
+								<gco:CharacterString>Conformity_001</gco:CharacterString>
+							</code>
+							<codeSpace>
+								<gco:CharacterString>INSPIRE</gco:CharacterString>
+							</codeSpace>
+						</RS_Identifier>
+					</measureIdentification>
+					<result>
+						<DQ_ConformanceResult xsi:type="DQ_ConformanceResult_Type">
+							<specification>
+								<CI_Citation>
+									<title>
+										<gco:CharacterString>D2.8.I.2 INSPIRE Specification on Geographical Grid Systems – Guidelines</gco:CharacterString>
+									</title>
+									<date>
+										<CI_Date>
+											<date>
+												<gco:Date>2010-04-26</gco:Date>
+											</date>
+											<dateType>
+												<CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</CI_DateTypeCode>
+											</dateType>
+										</CI_Date>
+									</date>
+								</CI_Citation>
+							</specification>
+							<explanation>
+								<gco:CharacterString>See the referenced specification</gco:CharacterString>
+							</explanation>
+							<pass>
+								<gco:Boolean>true</gco:Boolean>
+							</pass>
+						</DQ_ConformanceResult>
+					</result>
+				</DQ_DomainConsistency>
+			</report>
+			
+			<lineage>
+				<LI_Lineage>
+					<statement>
+<gco:CharacterString>The grids were created first by generating a European grid with the Bounding Box of EU27 + Norway and Iceland. The tool used is an ArcGIS extension that can be obtained from Eurostat at ESTAT-GISCO@ec.europa.eu.&#13;
+Then the sea areas were removed from the rectangular grid extent to remove inhabited grid cells.&#13;
+Finally the Pan European grid was cut into country grids using the country boundaries at scale 1.100000 from the GISCO database reference year 2010. The country boundaries first were project to LAEA.</gco:CharacterString>
+					</statement>
+				</LI_Lineage>
+			</lineage>
+		</DQ_DataQuality>
+	</dataQualityInfo>
+</MD_Metadata>
