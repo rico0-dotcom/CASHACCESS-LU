@@ -158,7 +158,7 @@ The project uses ECB ATM statistics for a national historical ATM-stock series c
 
 The series peaks at **596 ATMs in 2018** and reaches **299 in 2025**, corresponding to a **49.83% decline from the peak**.
 
-![ECB ATM time series](outputs/09_ecb_atm_time_series.png)
+![ECB ATM time series](https://raw.githubusercontent.com/rico0-dotcom/CASHACCESS-LU/main/outputs/09_ecb_atm_time_series.png)
 
 *ECB-reported ATM stock in Luxembourg, providing national historical context for the spatial analysis.*
 
